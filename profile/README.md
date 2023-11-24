@@ -28,4 +28,4 @@ At TEL&CO, we're more than just colleagues—we're a family. This fosters a sere
 
 ## 🚀 Join Us
 
-Are you looking to tackle a project or solve a problem together? [Contact us](mailto:commerciale@tlco.it) to explore how we can collaborate!
+Are you looking to tackle a project or solve a problem together? [Contact us](link:https://www.tlco.it/contatti/) to explore how we can collaborate!
