@@ -1,5 +1,3 @@
-# .github
-
 # Welcome to TEL&CO S.r.l. on GitHub!
 
 ## 🌐 About Us
