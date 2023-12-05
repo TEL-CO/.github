@@ -28,7 +28,7 @@ In TEL&CO, siamo più che semplici colleghi - siamo una famiglia. Questo favoris
 
 ## 🚀 Unisciti a Noi
 
-Stai cercando di affrontare un progetto o risolvere un problema insieme? [Contattaci](mailto:commerciale@tlco.it) per esplorare come possiamo collaborare!
+Stai cercando di affrontare un progetto o vuoi risolvere un problema insieme? [Contattaci](mailto:commerciale@tlco.it) per esplorare come possiamo collaborare!
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -63,4 +63,4 @@ At TEL&CO, we're more than just colleagues—we're a family. This fosters a sere
 
 ## 🚀 Join Us
 
-Are you looking to tackle a project or solve a problem together? [Contact us](mailto:commerciale@tlco.it) to explore how we can collaborate!
+Are you looking to tackle a project or want to solve a problem together? [Contact us](mailto:commerciale@tlco.it) to explore how we can collaborate!
